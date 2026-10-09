@@ -1,0 +1,20 @@
+# Simulateur telecharge par tools/run_tests.sh
+tools/rars.jar
+*.jar
+
+# Sorties temporaires
+capture.txt
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Systemes et editeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp

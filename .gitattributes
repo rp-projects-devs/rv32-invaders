@@ -1,0 +1,10 @@
+# Fins de ligne normalisees pour le code et la documentation
+* text=auto eol=lf
+*.s text eol=lf linguist-language=Assembly
+*.sh text eol=lf
+*.md text eol=lf
+
+# Fichiers binaires
+*.gif binary
+*.png binary
+*.jar binary
